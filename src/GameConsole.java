@@ -6,9 +6,7 @@ import java.util.Scanner;
 public class GameConsole {
 
 	/**
-	 *  GameConsole is Control of the game.
-	 *  @param 
-	 *  @return 
+	 *  GameConsole is Control of the guess.
 	 */
 	public int play(NumberGame game) {
 		Scanner console = new Scanner(System.in);

@@ -12,7 +12,7 @@ public class Main {
 		GameConsole ui = new GameConsole( );
 		int solution = ui.play( game );
 		//TODO display the answer returned by play
-		System.out.println("play() returned "+solution);
+		System.out.println("The secret number is "+solution);
 		//TODO display how many guesses the user made
 	}
 }
